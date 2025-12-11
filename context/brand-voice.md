@@ -1,4 +1,4 @@
-# [YOUR COMPANY] Brand Voice & Messaging
+# Programmer Interview Brand Voice & Messaging
 
 <!-- INSTRUCTIONS: This template defines your brand voice, tone, and messaging framework.
      Fill in all [BRACKETED] sections with your company's specific information.
